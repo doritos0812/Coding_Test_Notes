@@ -7,4 +7,7 @@ def is_Prime(x):
 '''
 print(is_Prime(7))
 print(is_Prime(12))
+
+True
+False
 '''
