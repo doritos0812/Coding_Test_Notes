@@ -9,7 +9,7 @@ def Sum_Interval(arr, n):
             end += 1
         if interval_sum == n:
             count += 1
-            print('Add from Index {0} to {1} is {2}'.format(start, end-1,n))
+            print('Add from Index {0} to {1} is {2}'.format(start, end-1,n)) # Delete if you want only count
         interval_sum -= arr[start]
     return count
 
