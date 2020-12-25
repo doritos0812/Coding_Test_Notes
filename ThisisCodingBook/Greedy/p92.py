@@ -7,16 +7,11 @@ data.sort()
 first = data[-1]
 second = data[-2]
 sum = 0
-while True:
-    for i in range(k):
-        if m == 0:
-            break
-        sum += first
-        m -= 1
-    if m == 0:
-        break
-    sum += second
-    m -= 1
+
+count = int(m // (k + 1)) * k + (m % (k + 1))
+
+sum += count * first
+sum += (m - count) * second
 
 print(sum)
 
