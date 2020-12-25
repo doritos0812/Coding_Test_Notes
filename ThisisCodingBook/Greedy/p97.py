@@ -5,8 +5,8 @@ for i in range(n):
     a = list(map(int, input().split()))
     data.append(a)
     small.append(min(a))
-
-print(small.index(max(small))+1)
+result = small.index(max(small))+1
+print(result)
 
 
 '''
