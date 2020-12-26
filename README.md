@@ -11,18 +11,18 @@
 
 ## This is Coding Book Examples
 
-### Greed
+### Greedy
 
-* [p.92](/ThisisCodingBook/Greed/p92.py)
-* [p.97](/ThisisCodingBook/Greed/p97.py)
-* [p.99](/ThisisCodingBook/Greed/p99.py)
+* [p.92](/ThisisCodingBook/Greedy/p92.py)
+* [p.97](/ThisisCodingBook/Greedy/p97.py)
+* [p.99](/ThisisCodingBook/Greedy/p99.py)
 
 ### Implementation
 
-* [p.104](/ThisisCodingBook/Implementation/p104.py)
-* [p.110](/ThisisCodingBook/Implementation/p110.py)
-* [p.113](/ThisisCodingBook/Implementation/p113.py)
-* [p.115](/ThisisCodingBook/Implementation/p115.py)
-* [p.118](/ThisisCodingBook/Implementation/p118.py)
+* [p.104](/ThisisCodingBook/Implementation/104.py)
+* [p.110](/ThisisCodingBook/Implementation/110.py)
+* [p.113](/ThisisCodingBook/Implementation/113.py)
+* [p.115](/ThisisCodingBook/Implementation/115.py)
+* [p.118](/ThisisCodingBook/Implementation/118.py)
 
 
