@@ -27,3 +27,4 @@
 ### DFS/BFS
 
 * [p.149](/ThisisCodingBook/DFS_BFS/p149.py)
+* [p.152](/ThisisCodingBook/DFS_BFS/p152.py)
