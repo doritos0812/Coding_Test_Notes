@@ -13,8 +13,8 @@ else:
 
 '''
 123402
-Lucky
+>> Lucky
 
 7755
-Ready
+>> Ready
 '''
