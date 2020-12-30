@@ -24,18 +24,18 @@
 
 ### Greedy
 
-* [p.92](/ThisisCodingBook/Greedy/p92.py)
-* [p.97](/ThisisCodingBook/Greedy/p97.py)
-* [p.99](/ThisisCodingBook/Greedy/p99.py)
+* [p.92](/ThisisCodingBook/Greedy/Examp/p92.py)
+* [p.97](/ThisisCodingBook/Greedy/Examp/p97.py)
+* [p.99](/ThisisCodingBook/Greedy/Examp/p99.py)
 
 ### Implementation
 
-* [p.110](/ThisisCodingBook/Implementation/p110.py)
-* [p.113](/ThisisCodingBook/Implementation/p113.py)
-* [p.115](/ThisisCodingBook/Implementation/p115.py)
-* [p.118](/ThisisCodingBook/Implementation/p118.py)
+* [p.110](/ThisisCodingBook/Implementation/Examp/p110.py)
+* [p.113](/ThisisCodingBook/Implementation/Examp/p113.py)
+* [p.115](/ThisisCodingBook/Implementation/Examp/p115.py)
+* [p.118](/ThisisCodingBook/Implementation/Examp/p118.py)
 
 ### DFS/BFS
 
-* [p.149](/ThisisCodingBook/DFS_BFS/p149.py)
-* [p.152](/ThisisCodingBook/DFS_BFS/p152.py)
+* [p.149](/ThisisCodingBook/DFS_BFS/Examp/p149.py)
+* [p.152](/ThisisCodingBook/DFS_BFS/Examp/p152.py)
