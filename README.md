@@ -6,6 +6,10 @@
 * [Sieve_of_Eratosthenes](/Numbers/Sieve_of_Eratosthenes.py)
 * [Sum_Interval](/Numbers/Sum_Interval.py)
 * [is_Prime](/Numbers/is_Prime.py)
+* [divisors](/Numbers/divisors.py)
+* [prime_factorization](/Numbers/prime_factorization.py)
+* [GCD](/Numbers/GCD.py)
+
 
 ### Graph
 * [get_Graph_NxM](/Graph/get_Graph_NxM.py)
