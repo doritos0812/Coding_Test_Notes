@@ -23,6 +23,7 @@
 * [Insertion_Sort](/Sort/Insertion_Sort.py)
 * [Quick_Sort](/Sort/Quick_Sort.py)
 * [Selection_Sort](/Sort/Selection_Sort.py)
+* [Heap_Sort](/Sort/Heap_Sort.py)
 
 ## This is Coding Book Examples
 
