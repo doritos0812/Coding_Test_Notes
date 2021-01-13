@@ -24,6 +24,8 @@
 * [Quick_Sort](/Sort/Quick_Sort.py)
 * [Selection_Sort](/Sort/Selection_Sort.py)
 * [Heap_Sort](/Sort/Heap_Sort.py)
+* [Bubble_Sort](/Sort/Bubble_Sort.py)
+* [Merge_Sort](/Sort/Merge_Sort.py)
 
 ## This is Coding Book Examples
 
